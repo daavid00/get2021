@@ -1,0 +1,18 @@
+DGF
+
+Interval
+0 0 0  % first corner
+4000 1 100 % 
+400 1 100 % 
+#
+
+GridParameter
+overlap 1
+closure green
+#
+
+BOUNDARYDOMAIN
+default 1    % all boundaries have id 1
+#
+
+#
