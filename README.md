@@ -21,7 +21,7 @@ include examples of scripts to run a single simulation.
 ## Installation
 * Clone all OPM modules from https://github.com/daavid00, check out the
 "wettability" branch, and build all opm modules, specially 'get2021' from
-opm-models.
+opm-models (opm-simulators is not required for this simulations).
 
 `./buildopm.bash`
 * Edit line 23 of the python scripts with the full path to the 'get2021'
