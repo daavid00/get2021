@@ -35,7 +35,7 @@ executable respectively.
 ## Paper
 * [A] Landa-Marbán, D., Kumar, K., Gasda, S.E., Sandve, T.H., Kassa, A.M.
 Numerical studies of long-term wettability alteration effects in co2 storage
-applications. Submitted.
+applications. Eur. Assoc. Geosci. Eng. 2021.
 
 ## Contact
 David Landa-Marbán (dmar@norceresearch.no).
